@@ -1,0 +1,8 @@
+/build/
+/patches/
+*.zip
+*.dsdelta
+*.assets
+/level[0-9]*
+.env
+.env.*

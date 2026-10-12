@@ -1,0 +1,141 @@
+{
+  "schema": 1,
+  "version": "0.1.1",
+  "game": "The Doll Shop",
+  "translated_entries": 2443,
+  "language_slot": 1,
+  "guards": [
+    {
+      "path": "Managed\\AC.dll",
+      "sha256": "14d3a6ac7fa539f3a2629f44b1fc77f52ca06bb175d86c5a2ba703f57da6c0ae"
+    },
+    {
+      "path": "Managed\\Assembly-CSharp.dll",
+      "sha256": "57793f235de0794586a10ebc35b14032a3469316510d430748fb875c710162fb"
+    }
+  ],
+  "files": [
+    {
+      "path": "resources.assets",
+      "original_sha256": "6792ad1f6ed75e370902b46b212c569f5139d571495522fbd0c67a21be578251",
+      "patched_sha256": "183c08c6d0f0683a70317a7a0ba5d9187fef345cdd6b747f7eff0483d5e6348c",
+      "accepted_previous_sha256": [
+        "aafb8d43ca15c06240da5aa42e4258c83a3643d55a3fefc8fc21586811682087"
+      ],
+      "source_size": 101912776,
+      "target_size": 102380976,
+      "patch": "patches\\resources.assets.dsdelta",
+      "patch_sha256": "6114ed47a6e6ef1bf379cebffda12bee5d5048de9e94ed95f49ad27c38a03a2f"
+    },
+    {
+      "path": "level11",
+      "original_sha256": "7d95292534ae0481ae4e24cdb6d1835e207e5bfe96654244cfdb2f72de1649ec",
+      "patched_sha256": "82e6baaf640aa197f0cc24b540323576d7dd018e7f95a123accaed2c4ba1d487",
+      "accepted_previous_sha256": [],
+      "source_size": 363988,
+      "target_size": 356736,
+      "patch": "patches\\level11.dsdelta",
+      "patch_sha256": "5b952140b1bfa60253f350f3583129044233df28b53420afed83ca64c539b9b7"
+    },
+    {
+      "path": "level13",
+      "original_sha256": "90f746c9689245bc7821b59bae01cec06396e6d5a2879068e2e7500384bc3c55",
+      "patched_sha256": "4b00119c8441a90e5b110b4b9855ab858c630174da898b85fd88728ea42ae9d8",
+      "accepted_previous_sha256": [],
+      "source_size": 370940,
+      "target_size": 363624,
+      "patch": "patches\\level13.dsdelta",
+      "patch_sha256": "933845450903873361001b5f7e53114b04f52400284593fa6d5198e281209f73"
+    },
+    {
+      "path": "level2",
+      "original_sha256": "03e0133ffd3e26971530535888ccec5f2fb17f95851f47b968c4a4579bbed578",
+      "patched_sha256": "3c164e2999da9fa41c953a43a8df1ec45cbd78e53c018d07e984d760de4c0ab2",
+      "accepted_previous_sha256": [],
+      "source_size": 1613108,
+      "target_size": 1583376,
+      "patch": "patches\\level2.dsdelta",
+      "patch_sha256": "c6ff07ec3eb4cb49e4a7ec210dc18896429424069f766a68e2bfc41a5e6dffda"
+    },
+    {
+      "path": "level21",
+      "original_sha256": "408d0b085b3f1913d5d9e1b7d8ab1de9617167201c9f9050f94a9101334f622d",
+      "patched_sha256": "d44e0a07eb47d56228464a9f7cc821531aecad071d5cb3fddffa105c28e4d75e",
+      "accepted_previous_sha256": [],
+      "source_size": 179312,
+      "target_size": 175944,
+      "patch": "patches\\level21.dsdelta",
+      "patch_sha256": "01d162efa7212332ed3ddab8e2ac8827962821015a4414117e87a3aa4cba19d8"
+    },
+    {
+      "path": "level22",
+      "original_sha256": "d5b2010484652650779e2207045170d41647a3ffdf7ee99b42f0a89aff550e85",
+      "patched_sha256": "452de4f8b0f024e913d882322425bf0a03ff68efc91d24dfd9d6d46a7dc2af4e",
+      "accepted_previous_sha256": [],
+      "source_size": 437544,
+      "target_size": 428608,
+      "patch": "patches\\level22.dsdelta",
+      "patch_sha256": "10917455ebf65ebc216bb20f4f7a36569882aae26fdf7bc50132ccb83f711e37"
+    },
+    {
+      "path": "level29",
+      "original_sha256": "9a44a2e36fd41da72b332df53f1ff158b76eb7079aab597c626acb40a485d703",
+      "patched_sha256": "43a0e2d9b21ade69263fab56fccd995c89bacc65c2f5343c989eacc5a51a1a28",
+      "accepted_previous_sha256": [],
+      "source_size": 106440,
+      "target_size": 104464,
+      "patch": "patches\\level29.dsdelta",
+      "patch_sha256": "e75f4404ff17a865f1e96ec88cc4c9b469499e0ebc0f62252258552398dcc356"
+    },
+    {
+      "path": "level3",
+      "original_sha256": "8224a0262be294eeef604ff26b6a0ff0b14b9923f494dce9faa2d268f7441838",
+      "patched_sha256": "79bc23d24caca3e7b8a724d38790fedc6276e3e78d48bb0bdd063d6e54fb1086",
+      "accepted_previous_sha256": [],
+      "source_size": 498512,
+      "target_size": 489272,
+      "patch": "patches\\level3.dsdelta",
+      "patch_sha256": "b656bcddb45d24e1d25a9fe64f0ee00d909cd9859425d13403d95f453a05774e"
+    },
+    {
+      "path": "level31",
+      "original_sha256": "0b546da23bf626c019243c213c9470a1a57f32fa74e53093b26c015cf07e0c3b",
+      "patched_sha256": "2f9f930b1946d507a41b34ce365d4604a53054ef88081634e5ba263462def07a",
+      "accepted_previous_sha256": [],
+      "source_size": 122364,
+      "target_size": 120160,
+      "patch": "patches\\level31.dsdelta",
+      "patch_sha256": "90d58f1877c46ab87af41604f4d3eca62f30ad281aba247d6f9f42363f95b2b3"
+    },
+    {
+      "path": "level37",
+      "original_sha256": "357d43736d31f2f007b06f4ed831731a81b47ee8d1183beb39c0dc9c14a03301",
+      "patched_sha256": "dc17d1fc9b3a7019d8a8a120746ed20518505e25b9a8ba06e88dade8e65915c8",
+      "accepted_previous_sha256": [],
+      "source_size": 361056,
+      "target_size": 354776,
+      "patch": "patches\\level37.dsdelta",
+      "patch_sha256": "dd3ec36262bb2730c2311d61fe5b239d9b8b132c7767f0f56c338c71b91a3055"
+    },
+    {
+      "path": "level4",
+      "original_sha256": "83d5b5aa6b430c240281c393dd54c082dbdd3bb85c65d135af774f1dc7c8c41d",
+      "patched_sha256": "2cec575037bfce74b0caf0f947d4a3154b4544d2a655aeebda3c1ee6fd5dccf3",
+      "accepted_previous_sha256": [],
+      "source_size": 329308,
+      "target_size": 322968,
+      "patch": "patches\\level4.dsdelta",
+      "patch_sha256": "646ab29b499216fe51e9a296be88b2a70aeb31611e30f5904a2c4d95eb0c3f50"
+    },
+    {
+      "path": "level5",
+      "original_sha256": "a487f61f8518962dafd590be3a9b0ad2f008a5c69bb5b0072cf608887c340379",
+      "patched_sha256": "8cdd993bdd88206c4c661e539cd47b6dc4fffa8c10542016cac0995a96edd2fa",
+      "accepted_previous_sha256": [],
+      "source_size": 673664,
+      "target_size": 660736,
+      "patch": "patches\\level5.dsdelta",
+      "patch_sha256": "a989bcf21c9254c0f1048d05181fcda82fb286a882e854db07d4dd2ce4214224"
+    }
+  ]
+}
